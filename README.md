@@ -1,12 +1,5 @@
 DSA Project - Wealth and Income
 ================
-Ricky Sutarius (A0233487X)
-Martin Alina Anna (A0237137E)
-Cheryl Susan Varghese (A0246142M)
-Anshumaan Tyagi (A0244508E)
-Lim Woo Jian (A0236506H)
-2023-04-11
-
 ## Introduction
 
 The wealth and income dataset comes from the Urban Institute and the US
